@@ -138,9 +138,12 @@ button {
     justify-content: center;
     align-items: center;
     margin-bottom: 24px;
+    flex-shrink: 0;
 }
 
 .mob-menu-close-svg {
+    width: 8px;
+    height: 8px;
     fill: #2E2F42;
 }
 
